@@ -1,0 +1,21 @@
+{
+    "name": "hubot-darla",
+    "version": "0.0.1",
+    "description": "hubot script for Kodi, NZBGet, CouchPotato",
+    "author": "MrTarantula <ryantaurantula@gmail.com>",
+    "dependencies": {
+
+    },
+    "main": "index.coffee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/user/hubot-script.git"
+    },
+    "keywords": [
+        "hubot"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    }
+}
